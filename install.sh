@@ -42,7 +42,7 @@ _download() {
 }
 
 _uninstall() {
-    test -d "$DESTDIR/Linesty" || return
+    test -d "$DESTDIR/Linesty" || return 0
     _msg "Deleting Linesty icon theme ..."
     _rm "$DESTDIR/Linesty"
 }
