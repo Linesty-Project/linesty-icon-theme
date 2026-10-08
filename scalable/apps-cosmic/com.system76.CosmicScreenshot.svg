@@ -4,7 +4,7 @@
    height="64"
    version="1"
    id="svg12"
-   sodipodi:docname="gthumb.svg"
+   sodipodi:docname="com.system76.CosmicScreenshot.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,9 +19,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2347505"
-     inkscape:cx="-247.82334"
-     inkscape:cy="-49.807633"
+     inkscape:zoom="0.811188"
+     inkscape:cx="-228.06057"
+     inkscape:cy="30.202616"
      inkscape:current-layer="svg12" />
   <defs
      id="defs2">
@@ -75,11 +75,11 @@
      d="M 6.953125,11 C 4.7623068,11 3,12.784 3,15 v 18 18 c 0,2.216 1.7623068,4 3.953125,4 H 57.046876 C 59.237694,55 61,53.216 61,51 V 33 15 c 0,-2.216 -1.762306,-4 -3.953124,-4 z"
      id="path2" />
   <path
-     style="fill:#5291de;fill-opacity:1;stroke-width:1.03866"
+     style="fill:#35a96d;fill-opacity:1;stroke-width:1.03866"
      d="M 6.9545454,10 C 4.7637272,10 3,11.925833 3,14.316473 V 33.733781 H 61 V 14.316473 C 61,11.925833 59.236272,10 57.045454,10 Z"
      id="path3" />
   <path
-     style="fill:#5291de;fill-opacity:1"
+     style="fill:#35a96d;fill-opacity:1"
      d="M 6.9545454,54 C 4.7637272,54 3,52.214852 3,49.998852 V 32 H 61 V 49.998852 C 61,52.214852 59.236272,54 57.045454,54 Z"
      id="path4" />
   <path
