@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="12.577778"
-     inkscape:cx="27.787102"
-     inkscape:cy="31.285335"
+     inkscape:zoom="8.2631613"
+     inkscape:cx="32.735655"
+     inkscape:cy="24.203812"
      inkscape:current-layer="svg32"
      showguides="false" />
   <radialGradient
@@ -170,7 +170,7 @@
      d="m 28.035156,88 h 71.929688 c 4.421876,0 7.999996,3.582031 7.999996,8 v 16 c 0,4.41797 -3.57812,8 -7.999996,8 H 28.035156 c -4.421875,0 -8,-3.58203 -8,-8 V 96 c 0,-4.417969 3.578125,-8 8,-8 z m 0,0"
      fill="url(#f)"
      id="path22"
-     style="fill:#fa7676;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.2" />
   <path
      d="m 28,48 h 72 c 4.41797,0 8,4.821614 8,10.768879 V 107.23109 C 108,113.17837 104.41797,118 100,118 H 28 c -4.417969,0 -8,-4.82163 -8,-10.76891 V 58.768879 C 20,52.821614 23.582031,48 28,48 Z m 0,0"
      fill="#ed333b"
@@ -190,27 +190,27 @@
      fill="#1c71d8"
      id="g29"
      transform="translate(0,1)"
-     style="fill:#65b5f7;fill-opacity:1">
+     style="fill:#45a4f7;fill-opacity:1">
     <path
        d="m 30,78 c 0,2.761719 -2.238281,5 -5,5 -2.761719,0 -5,-2.238281 -5,-5 0,-2.761719 2.238281,-5 5,-5 2.761719,0 5,2.238281 5,5 z m 0,0"
        id="path26"
-       style="fill:#65b5f7;fill-opacity:1" />
+       style="fill:#45a4f7;fill-opacity:1" />
     <path
        d="m 46,78 c 0,2.761719 -2.238281,5 -5,5 -2.761719,0 -5,-2.238281 -5,-5 0,-2.761719 2.238281,-5 5,-5 2.761719,0 5,2.238281 5,5 z m 0,0"
        id="path27"
-       style="fill:#65b5f7;fill-opacity:1" />
+       style="fill:#45a4f7;fill-opacity:1" />
     <path
        d="m 62,78 c 0,2.761719 -2.238281,5 -5,5 -2.761719,0 -5,-2.238281 -5,-5 0,-2.761719 2.238281,-5 5,-5 2.761719,0 5,2.238281 5,5 z m 0,0"
        id="path28"
-       style="fill:#65b5f7;fill-opacity:1" />
+       style="fill:#45a4f7;fill-opacity:1" />
     <path
        d="m 78,78 c 0,2.761719 -2.238281,5 -5,5 -2.761719,0 -5,-2.238281 -5,-5 0,-2.761719 2.238281,-5 5,-5 2.761719,0 5,2.238281 5,5 z m 0,0"
        id="path29"
-       style="fill:#65b5f7;fill-opacity:1" />
+       style="fill:#45a4f7;fill-opacity:1" />
   </g>
   <path
      stroke-miterlimit="10"
-     style="fill:none;stroke:#a0a0a0;stroke-width:3.00064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#787878;stroke-width:3.00064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      class="st0"
      d="m 99.54125,73.768224 c 2.87932,-0.958022 5.70668,0.595526 6.67508,3.482541 0.96841,2.887022 -0.59396,5.994125 -3.47325,6.965094 -2.87935,0.970974 -5.978136,-0.595528 -6.946514,-3.482544 -0.30988,-0.945078 -0.361524,-2.174911 -0.180764,-3.08115"
      id="path3" />
