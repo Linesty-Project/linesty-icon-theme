@@ -21,16 +21,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.7142608"
-     inkscape:cx="-458.51599"
-     inkscape:cy="-151.9053"
+     inkscape:zoom="1.4249664"
+     inkscape:cx="81.756316"
+     inkscape:cy="-78.598347"
      inkscape:current-layer="svg7" />
   <path
      style="opacity:0.2"
      d="M 8.6019673,57 C 6.0535855,57 4.0004002,54.956049 4.0004002,52.420515 V 45 H 60 v 7.420515 C 60,54.956049 57.946014,57 55.398033,57 Z"
      id="path1" />
   <path
-     style="fill:#4f93e8;fill-opacity:1"
+     style="fill:#3691bb;fill-opacity:1"
      d="M 8.6019673,8 C 6.0535855,8 4.0004002,10.053109 4.0004002,12.601396 V 44 H 60 V 12.601396 C 60,10.053109 57.946014,8 55.398033,8 H 8.6023673 Z"
      id="path2" />
   <path
@@ -50,7 +50,7 @@
      ry="2"
      id="rect4" />
   <rect
-     style="fill:#4f93e8;fill-opacity:1"
+     style="fill:#ea9e00;fill-opacity:1"
      width="32"
      height="4"
      x="8"
