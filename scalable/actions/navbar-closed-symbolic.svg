@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16"
-   height="16"
+   height="16px"
    viewBox="0 0 16 16"
-   fill="none"
+   width="16px"
    version="1.1"
-   id="svg6"
+   id="svg2"
    sodipodi:docname="navbar-closed-symbolic.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -13,9 +12,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
+     id="defs2" />
   <sodipodi:namedview
-     id="namedview6"
+     id="namedview2"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,62 +22,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="29.945953"
-     inkscape:cx="3.2892591"
-     inkscape:cy="5.6601972"
-     inkscape:current-layer="svg6" />
-  <mask
-     id="path-1-inside-1_3277_252"
-     fill="white">
-    <rect
-       x="1"
-       y="2"
-       width="14"
-       height="12"
-       rx="1"
-       id="rect1" />
-  </mask>
-  <rect
-     x="1"
-     y="2"
-     width="14"
-     height="12"
-     rx="1"
-     stroke="#232323"
-     stroke-width="4"
-     mask="url(#path-1-inside-1_3277_252)"
-     id="rect2"
-     transform="matrix(1.1428571,0,0,1.1416666,-1.1428571,-1.1333332)" />
-  <rect
-     x="5.7142859"
-     y="1.1500001"
-     width="2.2857144"
-     height="13.7"
-     fill="#232323"
-     id="rect3"
-     style="stroke-width:1.14226" />
-  <rect
-     x="3.4285712"
-     y="4.5749998"
-     width="1.1428572"
-     height="1.1416667"
-     fill="#232323"
-     id="rect4"
-     style="stroke-width:1.14226" />
-  <rect
-     x="3.4285712"
-     y="6.8583336"
-     width="1.1428572"
-     height="1.1416667"
-     fill="#232323"
-     id="rect5"
-     style="stroke-width:1.14226" />
-  <rect
-     x="3.4285712"
-     y="9.1416674"
-     width="1.1428572"
-     height="1.1416667"
-     fill="#232323"
-     id="rect6"
-     style="stroke-width:1.14226" />
+     inkscape:zoom="37.479132"
+     inkscape:cx="4.9494209"
+     inkscape:cy="7.7509799"
+     inkscape:current-layer="g2" />
+  <g
+     fill="#2e3436"
+     id="g2">
+    <path
+       d="M 6.4802673,13.506949 V 2.5997773 H 2.6598107 c -0.7014116,0 -1.2734855,0.4899708 -1.2734855,1.0907172 v 8.7257375 c 0,0.600746 0.5720739,1.090717 1.2734855,1.090717 z m 0,0"
+       fill-opacity="0.34902"
+       id="path1"
+       style="fill:#232323;fill-opacity:1;stroke-width:1.17856;opacity:0.35" />
+    <path
+       d="m 3 1 c -1.644531 0 -3 1.355469 -3 3 v 8 c 0 1.644531 1.355469 3 3 3 h 10 c 1.644531 0 3 -1.355469 3 -3 v -8 c 0 -1.644531 -1.355469 -3 -3 -3 z m 0 2 h 3 v 10 h -3 c -0.570312 0 -1 -0.429688 -1 -1 v -8 c 0 -0.570312 0.429688 -1 1 -1 z m 4 0 h 6 c 0.570312 0 1 0.429688 1 1 v 8 c 0 0.570312 -0.429688 1 -1 1 h -6 z m 0 0"
+       id="path2"
+       style="fill:#232323;fill-opacity:1" />
+    <path
+       d="M 12.800001,8.0125459 9.9580378,5.1841412 c 0,0 -0.527663,-0.4143302 -0.94752,1.86e-5 -0.419857,0.4143395 0,0.9346916 0,0.9346916 L 10.905179,8.0125459 9.0105178,9.8575986 c 0,0 -0.473665,0.4673474 0,0.9346924 0.473665,0.467346 0.94733,0 0.94733,0 z"
+       fill="#232323"
+       id="path3"
+       style="stroke-width:0.940989" />
+  </g>
 </svg>
