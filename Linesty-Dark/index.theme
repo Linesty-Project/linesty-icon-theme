@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=Linesty Dark
+Comment=Soft charcoal application icons with vivid brand colors and gentle depth
+Example=com.system76.CosmicSettings
+Inherits=Linesty,Pop,hicolor
+Directories=scalable/apps
+
+[scalable/apps]
+Context=Applications
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
